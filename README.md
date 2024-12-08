@@ -1,0 +1,1 @@
+This repository contains a PHP function with a bug causing division by zero errors. The function `foo` incorrectly handles zero values for inputs `a` and `b`.  The `bugSolution.php` file demonstrates a corrected version that handles zero inputs and avoids the error.
